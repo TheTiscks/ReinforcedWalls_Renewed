@@ -8,7 +8,8 @@
     <packageId>aleph.reinforcedwalls</packageId>
 		<description>
 Renewed version of 'Reinforced Walls' mod by Neceros
-The original mod is no longer supported by Neceros. This version works better with new versions of the game: wall mounted lamps added in the 1.5 update can be placed on the walls (as well as wall attachments added by other mods)
+The original mod is no longer supported by Neceros. This version works better with new versions of the game: wall mounted lamps added in the 1.5 update can be placed on the walls (as well as wall attachable objects added by other mods)
+Please note that wall attachable objects cannot be placed on embrasures
 
 Adds expensive heavy reinforced walls with exceptional hit points that resists explosive damage. 
 Additionally, you get an embrasure version of the heavy reinforced wall (you can shoot through it, but not walk through it) providing 75% cover from fire. 
