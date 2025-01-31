@@ -60,6 +60,7 @@
     </costList>
     <building>
       <isInert>true</isInert>
+      <supportsWallAttachments>true</supportsWallAttachments>
       <ai_chillDestination>false</ai_chillDestination>
       <blueprintGraphicData>
         <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
@@ -85,6 +86,14 @@
       <graphicClass>Graphic_Appearances</graphicClass>
     </graphicData>
     <uiIconPath>RWEmbrasureIcon</uiIconPath>
+    <building>
+      <isInert>true</isInert>
+      <supportsWallAttachments>false</supportsWallAttachments>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+    </building>
     <researchPrerequisites>
       <li>ResearchReinforcedWalls</li>
     </researchPrerequisites>
