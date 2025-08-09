@@ -60,6 +60,7 @@
     </costList>
     <building>
       <isInert>true</isInert>
+      <isAirtight>true</isAirtight>
       <supportsWallAttachments>true</supportsWallAttachments>
       <ai_chillDestination>false</ai_chillDestination>
       <blueprintGraphicData>
@@ -101,3 +102,4 @@
   </ThingDef>
 
 </Defs>
+
