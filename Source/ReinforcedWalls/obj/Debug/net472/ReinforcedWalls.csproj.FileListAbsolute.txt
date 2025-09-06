@@ -1,7 +1,0 @@
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\bin\Debug\net472\ReinforcedWalls.dll
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.csproj.AssemblyReference.cache
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.AssemblyInfoInputs.cache
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.AssemblyInfo.cs
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.csproj.CoreCompileInputs.cache
-D:\Repositories\ReinforcedWalls_Renewed\Source\ReinforcedWalls\obj\Debug\net472\ReinforcedWalls.dll
